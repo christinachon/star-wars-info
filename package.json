@@ -1,0 +1,22 @@
+{
+  "name": "star-wars-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinachon/star-wars-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinachon/star-wars-info/issues"
+  },
+  "homepage": "https://github.com/christinachon/star-wars-info#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
